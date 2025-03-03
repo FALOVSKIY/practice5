@@ -1,0 +1,13 @@
+int c = 2;
+while(c < 10)
+{
+    Console.WriteLine(c);
+    c++;
+}
+int f = 2;
+do
+{
+    Console.WriteLine(f);
+    f++;
+}
+while (f < 15);
