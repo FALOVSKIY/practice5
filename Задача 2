@@ -1,0 +1,8 @@
+int x = int.Parse(Console.ReadLine());
+int y = 1;
+while (y <= x)
+{
+
+    Console.Write(y + " ");
+    y *= 2;
+}
